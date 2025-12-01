@@ -14,7 +14,7 @@
 
 ## Структура репозитория
 
-app.py # веб‑приложение на Streamlit
-main.ipynb # Jupyter Notebook с основным анализом, предобработкой,кластеризацией
-requirements.txt # список зависимостей Python
+app.py # веб‑приложение на Streamlit\n
+main.ipynb # Jupyter Notebook с основным анализом, предобработкой,кластеризацией\n
+requirements.txt # список зависимостей Python\n
 online_retail.xlsx # исходный датасет
